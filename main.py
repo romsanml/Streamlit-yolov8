@@ -1,6 +1,6 @@
 import io
 import streamlit as st
-from ultralytics import YOLO
+from ultralytics.models import YOLO
 from PIL import Image
 
 # Функция для загрузки изображения через Streamlit
