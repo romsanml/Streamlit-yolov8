@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a708211-5537-4b3a-b015-8f1c9a34c0b4" name="Changes" comment="add main.py" />
+    <list default="true" id="3a708211-5537-4b3a-b015-8f1c9a34c0b4" name="Changes" comment="add main.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "romsanml"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/romsanml/Streamlit-yolov8",
+    "accountId": "469e1c12-bfc2-401e-9396-064ba290ec60"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -69,7 +84,55 @@
       <option name="project" value="LOCAL" />
       <updated>1727017586002</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add main.py">
+      <option name="closed" value="true" />
+      <created>1727017613162</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727017613162</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add main.py">
+      <option name="closed" value="true" />
+      <created>1727017648360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727017648360</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add main.py">
+      <option name="closed" value="true" />
+      <created>1727017663479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727017663479</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add main.py">
+      <option name="closed" value="true" />
+      <created>1727017688841</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727017688841</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add main.py">
+      <option name="closed" value="true" />
+      <created>1727017917162</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727017917162</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add main.py">
+      <option name="closed" value="true" />
+      <created>1727017928007</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727017928007</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
